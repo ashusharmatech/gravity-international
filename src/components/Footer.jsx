@@ -16,8 +16,8 @@ const Footer = () => (
 			<div className="flex-[1.5] w-full flex flex-row justify-between flex-wrap md:mt-0 mt-10">
 				<div className="flex-[1] flex flex-col justify-start mr-10">
 					<p className={`${styles.paragraph} mt-4 max-w-[312px]`}>
-						Daffoworth Pharmaceutical Pvt. Ltd. Plot No. 1-62/K/1/44, Kavuri Hills Phase 1, Hyderabad -
-						500033
+						Daffoworth Pharmaceutical Pvt. Ltd. 
+						Plot No. 54, Gulabbari, Near East Point School, Rajasthan 305001
 					</p>
 				</div>
 			</div>

@@ -1,4 +1,4 @@
-import { people01, people02, people03, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star  } from "../assets";
+import { people01, people02, people03, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star, bikaji, jkcement  } from "../assets";
 
 export const navLinks = [
   {
@@ -73,19 +73,14 @@ export const feedback = [
 export const stats = [
   {
     id: "stats-1",
-    title: "Medicines",
-    value: "29+",
+    title: "Products",
+    value: "20+",
   },
   {
     id: "stats-2",
-    title: "Trusted by Doctor",
-    value: "1000+",
-  },
-  {
-    id: "stats-3",
-    title: "Trademarks",
+    title: "Trusted by Clients",
     value: "50+",
-  },
+  }
 ];
 
 export const footerLinks = [
@@ -170,11 +165,11 @@ export const socialMedia = [
 export const clients = [
   {
     id: "client-1",
-    logo: airbnb,
+    logo: bikaji,
   },
   {
     id: "client-2",
-    logo: binance,
+    logo: jkcement,
   },
   {
     id: "client-3",

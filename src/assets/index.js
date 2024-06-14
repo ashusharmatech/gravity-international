@@ -23,8 +23,14 @@ import twitter from "./twitter.svg";
 import people01 from "./people01.webp";
 import people02 from "./people02.webp";
 import people03 from "./people03.webp";
-import hero from "./hero.webp";
+import hero from "./hero.jpg";
 import medecine from './medicine.webp';
+
+
+import bikaji from './bikaji.png'
+import jkcement from './jkcement.png';
+
+
 
 
 import cocodev from './cocodew.webp';
@@ -86,5 +92,11 @@ export {
   cortio,
   daflo_d3_fd,
   decofast_ls,
-  dafobactum
+  dafobactum,
+
+
+
+
+  bikaji,
+  jkcement
 };
