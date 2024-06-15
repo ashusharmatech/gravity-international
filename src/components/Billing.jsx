@@ -1,4 +1,3 @@
-import { apple, bill, google } from '../assets';
 import { products } from '../constants';
 import styles, { layout } from '../style';
 import ProductSimple from './ProductSimple';

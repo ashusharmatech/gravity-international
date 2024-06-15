@@ -9,14 +9,14 @@ const Footer = () => (
 			<div className="flex-[1] flex flex-col justify-start mr-10">
 				<img src={logo} alt="hoobank" className="w-[266px] h-[72.14px] object-contain" />
 				<p className={`${styles.paragraph} mt-4 max-w-[312px]`}>
-				The Next Generation Medicines
+				Join Us on a Journey of Innovation and Excellence
 				</p>
 			</div>
 
 			<div className="flex-[1.5] w-full flex flex-row justify-between flex-wrap md:mt-0 mt-10">
 				<div className="flex-[1] flex flex-col justify-start mr-10">
 					<p className={`${styles.paragraph} mt-4 max-w-[312px]`}>
-						Daffoworth Pharmaceutical Pvt. Ltd. 
+						Gravity International 
 						Plot No. 54, Gulabbari, Near East Point School, Rajasthan 305001
 					</p>
 				</div>
@@ -25,7 +25,7 @@ const Footer = () => (
 
 		<div className="w-full flex justify-between items-center md:flex-row flex-col pt-6 border-t-[1px] border-t-[#3F3E45]">
 			<p className="font-poppins font-normal text-center text-[18px] leading-[27px] text-gray-900">
-				Copyright Ⓒ 2023 Dafforworth. All Rights Reserved.
+				Copyright Ⓒ 2024 Gravity International. All Rights Reserved.
 			</p>
 
 			<div className="flex flex-row md:mt-0 mt-6">

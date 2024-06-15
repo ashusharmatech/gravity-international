@@ -1,7 +1,6 @@
 import styles from './style';
-import { Billing, Business, Clients, CTA, Footer, Navbar, Stats, Testimonials, Hero } from './components';
+import { Billing, Business, Clients, CTA, Footer, Navbar, Stats, Hero } from './components';
 import Product from './components/Product';
-import Photos from './components/Photos';
 
 
 const App = () => (
@@ -23,14 +22,12 @@ const App = () => (
 				<Stats />
 				<Clients />
 				<Business />
-				<Photos/>
-
-				<Billing />
+				{/* <Photos/> */}
 				<Product/>
 				{/* <CardDeal /> */}
-				<Testimonials />
-				<CTA />
-				<Footer />
+				{/* <Testimonials /> */}
+				{/* <CTA /> */}
+				<Footer /> 
 			</div>
 		</div>
 	</div>

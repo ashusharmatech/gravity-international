@@ -18,15 +18,13 @@ const Business = () => (
 	<section id="vision" className={layout.section}>
 		<div className={layout.sectionInfo}>
 			<h2 className={styles.heading2}>
-				We at Daffoworth, <br className="sm:block hidden" /> pledge to medical ethics.
+				At Gravity International, <br className="sm:block hidden" /> we elevate industrial automation.
 			</h2>
 			<p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-				Daffoworth for a start is catering to therapeutic field like Orthopedics, Medicine, Gyne, Dental,
-				Paediatrics, etc with a wide range of specialized medicines which are effective in complete treatment of
-				the related ailments.
+				We have been dedicated to serving the industrial market since 2015 as a provider of customized automation solutions.
 			</p>
 
-			<Button styles={`mt-10`} />
+			{/* <Button styles={`mt-10`} /> */}
 		</div>
 
 		<div className={`${layout.sectionImg} flex-col`}>

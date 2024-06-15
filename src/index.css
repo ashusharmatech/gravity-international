@@ -27,13 +27,13 @@
 
 .text-gradient {
   background: radial-gradient(
-    64.18% 64.18% at 71.16% 35.69%,
-    #2e3333 0.89%,
-    #516768 17.23%,
-    #588586 42.04%,
-    #62b6b9 55.12%,
-    #53c8cc 71.54%,
-    #33bbcf 100%
+    circle at 50% 50%,
+    #f56960 0%,
+    #f56960 20%,
+    #f3c98b 40%,
+    #daa588 60%,
+    #c46d5e 80%,
+    #f56960 100%
   );
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -105,7 +105,7 @@
 }
 
 .bg-discount-gradient {
-  background: linear-gradient(125.17deg, #ffffff 0%, #54cf9c 100%);
+  background: linear-gradient(125.17deg, #ffffff 0%, #f56960 100%);
 }
 
 .box-shadow {
