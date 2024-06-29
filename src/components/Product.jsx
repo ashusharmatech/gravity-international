@@ -110,7 +110,7 @@ const products = [
     ],
   },
   {
-    category: "Glow Meters",
+    category: "Flow Meters",
     items: [
       {
         title: "VA 500 - FLOW METER FOR COMPRESSED AIR AND GASES",
