@@ -2,6 +2,7 @@ import React from "react";
 import { Business, Clients, Footer, Hero, Stats } from "../components";
 import Product from "../components/Product";
 import styles from "../style";
+import ProductView from "../components/ProductView";
 
 const Home = () => {
   return (
@@ -18,6 +19,7 @@ const Home = () => {
           <Clients />
           <Business />
           {/* <Photos/> */}
+          <Product/>
           
           {/* <CardDeal /> */}
           {/* <Testimonials /> */}
